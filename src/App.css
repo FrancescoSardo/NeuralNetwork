@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+.prova{
+  display: flex;
+  justify-content: center;  
+  background-color: aliceblue;
+  align-items: center;
+  align-self: center;
+}
+.prova canvas{
+  
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
